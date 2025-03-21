@@ -7,5 +7,13 @@
 
 </a>
 <p>
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Maven_Pixar_Challenge/main/images/Pixer Overview.png">
+</p>
+</a>
+<p>
   <img src="https://raw.githubusercontent.com/sandhuhardeep67/Maven_Pixar_Challenge/main/images/Image.png">
+</p>
+</a>
+<p>
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Maven_Pixar_Challenge/main/images/Insights.png">
 </p>
